@@ -59,12 +59,12 @@
         <a href="https://protetox-official.herokuapp.com/offer.php" class="u-active-white u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-black u-radius-50 u-text-active-black u-text-hover-white u-btn-2" target="_blank">YES, GIVE ME MY DISCOUNT LINK!</a>
       </div></header>
     <section class="u-clearfix u-valign-middle-md u-section-1" id="carousel_ddf6">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-row">
               <div class="u-container-style u-layout-cell u-shape-rectangle u-size-31 u-layout-cell-1">
-                <div class="u-container-layout u-valign-top u-container-layout-1">
+                <div class="u-container-layout u-valign-top-xl u-container-layout-1">
                   <h1 class="u-text u-text-custom-color-1 u-text-1">
                     <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://protetox-official.herokuapp.com/offer.php" target="_blank">Protetox</a>
                   </h1>
@@ -85,7 +85,7 @@
                 <div class="u-container-layout u-container-layout-2">
                   <p class="u-text u-text-body-alt-color u-text-default u-text-3">Image from <a href="https://www.freepik.com/photos/background" class="u-border-1 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-border-white u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-link u-button-style u-none u-radius-0 u-text-body-alt-color u-top-left-radius-0 u-top-right-radius-0 u-btn-4" target="_blank">Freepik</a>
                   </p>
-                  <img class="u-image u-image-contain u-image-default u-image-1" src="images/p2.png" alt="" data-image-width="920" data-image-height="692" data-href="https://protetox-official.herokuapp.com/offer.php" data-target="_blank">
+                  <img class="u-expanded-width-sm u-image u-image-contain u-image-default u-image-1" src="images/p2.png" alt="" data-image-width="920" data-image-height="692" data-href="https://protetox-official.herokuapp.com/offer.php" data-target="_blank">
                 </div>
               </div>
             </div>
@@ -99,9 +99,9 @@
       </div>
     </section>
     <section class="u-clearfix u-section-3" id="sec-424d">
-      <div class="u-clearfix u-sheet u-valign-bottom-xs u-sheet-1">
+      <div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-image u-image-contain u-image-default u-image-1" src="images/p3.PNG" alt="" data-image-width="920" data-image-height="692" data-href="https://protetox-official.herokuapp.com/offer.php" data-target="_blank">
-        <img class="u-expanded-width-xs u-image u-image-contain u-image-default u-image-2" src="images/34.png" alt="" data-image-width="1761" data-image-height="297" data-href="https://nicepage.com">
+        <img class="u-expanded-width-sm u-expanded-width-xs u-image u-image-contain u-image-default u-image-2" src="images/34.png" alt="" data-image-width="1761" data-image-height="297" data-href="https://nicepage.com">
       </div>
     </section>
     <section class="u-align-center u-clearfix u-custom-color-1 u-section-4" id="carousel_3954">
